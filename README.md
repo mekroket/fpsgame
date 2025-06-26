@@ -2,6 +2,9 @@
 
 Unity ile geliştirilen bu birinci şahıs nişancı (FPS) oyunu; oyuncuya silah kullanma, düşmanları yenme ve haritada özgürce dolaşma imkânı tanır. Proje, temel FPS mekaniklerini öğrenmek, geliştirmek ve özelleştirmek isteyenler için sade ve genişletilebilir bir altyapı sunar.
 
+![1](https://github.com/mekroket/ballftalgame/blob/main/1.png)
+![2](https://github.com/mekroket/ballftalgame/blob/main/2.png)
+
 ---
 
 ## 🕹️ Özellikler
